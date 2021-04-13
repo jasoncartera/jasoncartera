@@ -1,5 +1,5 @@
 # Welcome!
-* Computer science student at Oregon State University
+* Computer Science student at Oregon State University
 * Environmental Scientist at California Water Resources Control Board
 * University of Oregon Alum - B.S. Biology 2012
 * Languages: Python, C++
